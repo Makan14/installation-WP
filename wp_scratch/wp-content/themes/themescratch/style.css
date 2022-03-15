@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap");
+/* 
+Theme name = themescratch
+Author = Makan
+Description = mon theme scratch
+Version = 1.0
+Text Domain = montheme
+
+*/
+
+/* 
+font-family: 'Poppins', sans-serif;
+*/
+
+body {
+  /* background: lightblue; */
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+
+/* debut de header gauche */
+
+.monLogo {
+  float: left;
+  margin-top: 0.2rem;
+}
+
+.monSlogan {
+  float: left;
+  /* margin-left: 0.5%; */
+  margin-top: 1.5rem;
+}
+
+.monSlogan a {
+  font-size: 3rem;
+  text-decoration: none;
+  color: black;
+}
+
+li.widget {
+  list-style-type: none;
+}
+/* fin de header droit */
+
+/* debut de header droit */
+.phoneBlock {
+  text-align: right;
+  margin-top: 2%;
+}
+
+.phone {
+  margin-right: 1%;
+  margin-bottom: 1.5%;
+}
+/* fin de header droit */
+
+/* debut entete */
+.bandeau {
+  max-width: 100%;
+  height: auto;
+}
+
+.entete {
+  padding: 0;
+}
+/* fin entete */
+
+/* debut FOOTER */
+
+/* footer gauche */
+.basGauche li {
+  list-style: none;
+  display: inline;
+  margin-right: 0.5rem;
+}
+
+.basGauche li a {
+  text-decoration: none;
+}
+/* footer gauche */
+
+/* footer droit */
+.reseauxSociaux {
+  text-align: right;
+}
+/* footer droit */
+
+/* fin FOOTER */
+
+/* .bleu {
+  background-color: blue;
+  min-height: 80px;
+} */
+
+/* .rouge {
+  background-color: red;
+  min-height: 80px;
+} */
+
+/* .vert {
+  background-color: green;
+  min-height: 80px;
+} */
+
+/* .orange {
+  background-color: orangered;
+  min-height: 80px;
+} */
+
+/* .violet {
+  background-color: purple;
+  min-height: 80px;
+} */
+
+main {
+  min-height: 600px;
+}

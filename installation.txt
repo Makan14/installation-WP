@@ -1,0 +1,35 @@
+wordpress peut etre utilser de 3 manières 
+
+1 - le site officiel (https://.fr.wordpress.org)
+2 - hebergement web (sois directement depuis l herbergeur sois en glissant les fichiers via FileZilla)
+3 - sois par wampp, xampp, easy php (serveurs en local)
+
+Installation:
+
+1 - download l archive fr.wordpress.org 
+2 - extraire l archive
+3 - déplacer ou copier /wordpress/ dns htdocs de xampp ou www de wamp 
+4 - acceder via le navigateur à locahost/wordpress
+5 - cliquer sur le btn cst parti ! pr lancer l installation
+6 - se rendre sur localhost/phpmyadmin et cree la BDD 
+7 - retourner sur l onglet permettant l installation de WP et renseigner les infos
+nom de la BDD : wordpress
+identifiant: root
+MDP: (sous mac: root)
+adresse de BDD: localhost
+8 - cliquer sur "lancer l installation"
+9 - choisir ses identifiant "Admin" et sn adresse mail de contact, puis cliquer sur "installer wordpress"
+10 - se connecter avc ls identifiants choisis en étape 9
+
+backoffice: /worpress/wp-admin
+front: /wordpress/
+connxion au backoffice: /wordpress/wp-login.php 
+
+-------------------------------------------------------------------------------------------------------
+
+identifiant: makan
+MDP: WP@1996
+
+indentifiant: makan
+MDP: 1&fiBaO@YI!Y^ocam^
+
